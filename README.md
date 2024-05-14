@@ -1,11 +1,11 @@
 **Bericht** vom 02. Juni 2021
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image1.jpg){width="6.3in"
+![](media/image1.jpg){width="6.3in"
 height="7.018055555555556in"}Sichtbarmachung der Schweiz auf der
 electricitymap.org und Rechenzentren-Assessment
 
 ![Logo Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image2.jpeg){width="2.7263024934383204in"
+generated](media/image2.jpeg){width="2.7263024934383204in"
 height="0.8020833333333334in"}
 
 **Datum:** 02. Juni 2021
@@ -257,7 +257,7 @@ Daten erfassten Stroms der Schweiz (roter Block) über das Jahr konstant
 ist.
 
 ![Chart, waterfall chart Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image3.png){width="3.5119061679790025in"
+generated](media/image3.png){width="3.5119061679790025in"
 height="2.3248293963254594in"}
 
 Abbildung : Visualisierung der Kategorie \"unbekannt\"
@@ -393,7 +393,7 @@ werden. Dies stimmt ebenfalls mit vom BFE publizierten Monatsstatistiken
 überein. (Bundesamt für Energie, 2021)
 
 ![Chart Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image4.png){width="5.040411198600175in"
+generated](media/image4.png){width="5.040411198600175in"
 height="2.6145833333333335in"}
 
 Abbildung 2: In der Schweiz produzierter Strom pro Stunde gemäss
@@ -522,7 +522,7 @@ Schweizer Rechenzentren abzuschätzen. (IWSB - Institut für
 Wirtschaftsstudien Basel AG, 2014)
 
 ![Graphical user interface, chart, line chart Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image5.png){width="4.581271872265967in"
+generated](media/image5.png){width="4.581271872265967in"
 height="2.991327646544182in"}
 
 Abbildung : Abschätzung des gesamten Stromverbrauchs in Schweizer
@@ -561,7 +561,7 @@ $$x_{importiert,h} = \frac{I_{h}}{P_{h} + I_{h}} = \frac{\sum_{k}^{}I_{h,k}}{\su
 Formel 4: Stündlicher Anteil importierter Strom
 
 ![Chart Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image6.png){width="3.7548687664041993in"
+generated](media/image6.png){width="3.7548687664041993in"
 height="2.612952755905512in"}
 
 Abbildung : Stündlicher Anteil importierter Strom am Schweizer Strom Mix
@@ -581,7 +581,7 @@ Stromverbrauch aus Kapitel 3.1 ergeben sich folgende Emissionswerte
 durch Schweizer Rechenzentren.
 
 ![Graphical user interface, chart, histogram Description automatically
-generated](vertopal_96af99e20f4f4b768c982af86a817716/media/image7.png){width="5.0784722222222225in"
+generated](media/image7.png){width="5.0784722222222225in"
 height="3.3680555555555554in"}
 
 Abbildung : Stündlich aufgelöste CO~2~ Emissionen durch Schweizer
@@ -881,33 +881,33 @@ print(fetch_production())
 
 ## Folien zur Validierung
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image8.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image10.png){width="6.25in"
+![](media/image8.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image10.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image12.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image14.png){width="6.25in"
+![](media/image12.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image14.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image16.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image18.png){width="6.25in"
+![](media/image16.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image18.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image20.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image22.png){width="6.25in"
+![](media/image20.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image22.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image24.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image26.png){width="6.25in"
+![](media/image24.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image26.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image28.png){width="6.25in"
+![](media/image28.png){width="6.25in"
 height="3.5208333333333335in"}\
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image30.png){width="6.25in"
+![](media/image30.png){width="6.25in"
 height="3.5208333333333335in"}
 
-![](vertopal_96af99e20f4f4b768c982af86a817716/media/image32.png){width="6.25in"
-height="3.5208333333333335in"}![](vertopal_96af99e20f4f4b768c982af86a817716/media/image34.png){width="6.25in"
+![](media/image32.png){width="6.25in"
+height="3.5208333333333335in"}![](media/image34.png){width="6.25in"
 height="3.5208333333333335in"}
 
 ###  {#section-4 .list-paragraph}
